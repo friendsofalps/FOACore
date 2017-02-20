@@ -1,5 +1,5 @@
 {
-  "name": "fao-core",
+  "name": "foa-core",
   "version": "0.0.0",
   "description": "Manage your js components",
   "main": "src/core.js",
